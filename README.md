@@ -1,5 +1,4 @@
 # forzivradio
-An immersive, customizable listening experience with Forza Horizon 4's radio DJs!
 ForzIVRadio takes any .mp3, .wav, or .ogg files and combines them with DJ commentary for a 100% game-realistic custom radio station!
 
 To use ForzIVRadio, drag and drop your desired music tracks into the "music" folder and run. Your immersive playlist will pop out as a single .wav in the "output" folder.
