@@ -1,4 +1,4 @@
-#To do (in order):
+# To do (in order):
 - Populate DJ audio options (more than the current 3)
 - Sort Mr. Jam's voicelines into seasons, implement season selector
 - Repeat for all DJs, implement DJ selector
