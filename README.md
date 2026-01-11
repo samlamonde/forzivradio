@@ -1,8 +1,8 @@
 # Dependencies:
-- [FFmpeg Essentials]([url](https://ffmpeg.org/))
+- [FFmpeg Essentials](https://ffmpeg.org/)
 
 Download FFmpeg, unzip, and copy the path to ffmpeg.exe (should be in the bin folder). Win + r to sysdm.cpl, select Advanced -> Environment Variables -> Path -> Edit -> New -> paste ffmpeg.exe path and save. Run ```ffmpeg -version``` in your terminal, a successful installation will return version info.
-- [Pydub]([url](https://github.com/jiaaro/pydub))
+- [Pydub](https://github.com/jiaaro/pydub)
 
 Simply ```pip install pydub``` in your terminal and you should be good to go!
 #  
